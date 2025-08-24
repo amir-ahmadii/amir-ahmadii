@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there, I'm Amir Ahmadi 👋
 
-<!--
-**amir-ahmadii/amir-ahmadii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Backend Developer specializing in **Python** & **Django**. I enjoy building scalable, high-quality web applications and solving complex problems with clean code.
 
-Here are some ideas to get you started:
+When I'm not coding, you can find me lost in the world of books, movies, and music.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🔭 **I’m currently working on:** Developing robust APIs and optimizing backend performance.
+- 🌱 **I’m currently learning:** Advanced DevOps concepts with Docker & Kubernetes.
+- 💬 **Ask me about:** Python, Django, REST APIs, and database design.
+- 📫 **How to reach me:**
+  - **Email:** `your-email@example.com`
+  - **LinkedIn:** `linkedin.com/in/your-profile`
+
+---
+
+### My Tech Stack
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/></a>
+  <a href="https://www.django-rest-framework.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/djangorest/djangorest-original.svg" alt="djangorest" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+</p>
