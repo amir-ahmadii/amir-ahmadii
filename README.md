@@ -10,8 +10,8 @@ When I'm not coding, you can find me lost in the world of books, movies, and mus
 - 🌱 **I’m currently learning:** Advanced DevOps concepts with Docker & Kubernetes.
 - 💬 **Ask me about:** Python, Django, REST APIs, and database design.
 - 📫 **How to reach me:**
-  - **Email:** `your-email@example.com`
-  - **LinkedIn:** `linkedin.com/in/your-profile`
+  - **Email:** `ahmadi.amir.dev@gmail.com`
+  - **LinkedIn:** `linkedin.com/in/amir-ahmadii`
 
 ---
 
